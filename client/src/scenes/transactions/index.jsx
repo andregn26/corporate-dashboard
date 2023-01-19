@@ -20,7 +20,7 @@ const Transactions = () => {
     sort: JSON.stringify(sort),
     search,
   })
-  console.log("🚀 ~ file: index.jsx:8 ~ Transactions ~ data", data)
+  // console.log("🚀 ~ file: index.jsx:8 ~ Transactions ~ data", data)
   const columns = [
     {
       field: "_id",
