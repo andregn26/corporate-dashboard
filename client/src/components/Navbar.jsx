@@ -22,7 +22,7 @@ import {
   Menu,
   MenuItem,
 } from "@mui/material"
-import profileImage from "assets/profile.jpeg"
+import profileImage from "assets/profile.jpg"
 
 const Navbar = ({ isSidebarOpen, setIsSidebarOpen, user }) => {
   const dispatch = useDispatch()
