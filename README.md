@@ -7,9 +7,9 @@
 </p>
 <div align="center">
 
-<h1 align="center">Corporate Dashboard</h1>
+<h1 align="center">InsightIQ</h1>
 <br />
-<img src="" width="700" alt="animated" />
+<img src="https://github.com/andregn26/corporate-dashboard/blob/main/client/src/assets/preview.gif" width="700" alt="animated" />
     <br />
     <br />
     <br />
@@ -36,21 +36,24 @@
 * [![MaterialUI][MaterialUI-shield]][MaterialUI-url]
 
 
+## Notable Dependencies :building_construction:
+
+    @mui/x-data-grid
+    @reduxjs/toolkit
+    react-datepicker 
+    react-redux
+
+
 
 <!-- ACKNOWLEDGMENTS -->
 ## Biggest Learnings 📖
 
-* []() Learning 1
-* []() Learning 2
-* []() Learning 3
-* []() Learning 4
-
-
-#### It also helped me to learn more about Web Design:
-* []() Learning 1
-* []() Learning 2
-* []() Learning 3
-* []() Learning 4
+* []() Familiarity with the basics of routing and handling HTTP requests, responses, errors handling and debugging .
+* []() Understanding how to use middleware functions effectively.
+* []() Importance of proper data modeling and schema design. to mantain the integrity and consistency throughout the project.
+* []() The power of Mongoose's query API, particularly the aggregate method.
+* []() Understand the benefits of using a pre-built design system, and how to effectively implement Material Design principles in my project.
+* []() Understand the importance of having a well-structured state management, and how to effectively work with data in a React-Redux application
 
 
 
