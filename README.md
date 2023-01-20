@@ -32,6 +32,8 @@
 * [![Express][Express-shield]][Express-url]
 * [![React][React-shield]][React-url]
 * [![NodeJs][NodeJs-shield]][NodeJs-url]
+* [![Redux][Redux-shield]][Redux-url]
+* [![MaterialUI][MaterialUI-shield]][MaterialUI-url]
 
 
 
@@ -67,4 +69,10 @@
 
 [NodeJs-shield]: https://img.shields.io/badge/-NODEJS-339933?logo=Node.js&logoColor=339933&logoWidth=30&labelColor=black&style=for-the-badge
 [NodeJs-url]: https://nodejs.org/en/
+
+[MaterialUI-shield]: https://img.shields.io/badge/-MATERIAL%20UI-007FFF?logo=MUI&logoColor=007FFF&logoWidth=30&labelColor=black&style=for-the-badge
+[MaterialUI-url]: https://mui.com/
+
+[Redux-shield]: https://img.shields.io/badge/-Redux%20TOOLKIT-764ABC?logo=redux&logoColor=764ABC&logoWidth=30&labelColor=black&style=for-the-badge
+[Redux-url]: https://redux.js.org/
 
