@@ -19,7 +19,7 @@
     <br />
         <a href="https://insightiq.onrender.com/dashboard" target="_blank">View Demo</a>
     ·
-    <a href="" target="_blank">Report Bug</a>
+    <a href="https://github.com/andregn26/corporate-dashboard/issues" target="_blank">Report Bug</a>
     
   </p>
 </div>
