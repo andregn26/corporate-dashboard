@@ -17,7 +17,7 @@
     A MERN project for the development of a corporate dashboard, utilizing Mongoose for database management, Express for routing, and NodeJs for server-side logic. The frontend was built using Material UI for styling and Redux toolkit for state management, with RTK Query for making API calls to the backend. This dashboard provides an easy to use interface for employees to view and manage important company information, such as sales data, employee information, and performance metrics.
     <br />
     <br />
-        <a href="https://insightiq.onrender.com/dashboard" target="_blank">View Demo</a>
+        <a href="https://insightiq.onrender.com" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/andregn26/corporate-dashboard/issues" target="_blank">Report Bug</a>
     
